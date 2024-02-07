@@ -1,0 +1,12 @@
+{
+  "name": "lernib-template-ts",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@tsconfig/node-lts": "^20.1.1",
+    "typescript": "^5.3.3"
+  }
+}
