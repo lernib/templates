@@ -1,5 +1,5 @@
 {
-  "name": "lernib-template-ts",
+  "name": "lernib-template-ts-eslint",
   "version": "0.0.0",
   "private": true,
   "scripts": {
